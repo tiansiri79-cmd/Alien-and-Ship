@@ -49,7 +49,7 @@ Alien-and-Ship 是基于《Python Crash Course》示例游戏改进而来的版�
 
 ### 安装依赖
 仅需安装 pygame：
-
+pip install pygame
 
 ---
 
@@ -63,4 +63,4 @@ Alien-and-Ship 是基于《Python Crash Course》示例游戏改进而来的版�
 | Q | 退出游戏 |
 
 ```bash
-pip install pygame
+
